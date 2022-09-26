@@ -83,6 +83,8 @@
 }
 .center_auto_2{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .hr_styles{
     font-family: sans-serif;
@@ -92,6 +94,9 @@
 }
 .hr_style{
     width: 170px;
+    text-align: center;
+    margin-left: auto;
+    margin-left: auto;
 }
 .header__wrapper{
     display: flex;
@@ -181,6 +186,8 @@
 }
 .most_reas{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     font-family: sans-serif;
     letter-spacing: 2px;
 }
@@ -190,6 +197,7 @@
 .display_3flex{
     display: flex;
     align-items: center;
+    justify-content: baseline;
     margin-left: auto;
     margin-right: auto;
     flex-direction: column;
